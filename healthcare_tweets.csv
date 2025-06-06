@@ -1,0 +1,26 @@
+text,sentiment
+"I had a fantastic experience at the hospital today, the nurses were amazing!",Positive
+"The wait time at the clinic was unbearable, very frustrating experience.",Negative
+"My doctor explained everything clearly, very satisfied with the consultation.",Positive
+"Feeling ignored by the health system, not getting the answers I need.",Negative
+"The new telehealth service is so convenient, highly recommend it.",Positive
+"Received my test results quickly, very efficient service.",Positive
+"Prescription refill took forever, terrible customer service.",Negative
+"Healthcare costs are just too high, making it inaccessible for many.",Negative
+"My physiotherapist is excellent, truly helping with my recovery.",Positive
+"Had a minor procedure, everything went smoothly and professionally.",Positive
+"The hospital food was awful, couldn't even eat it.",Negative
+"Happy with my annual check-up, doctor was thorough.",Positive
+"Emergency room was chaotic and understaffed, long wait times.",Negative
+"Got my vaccine today, the process was quick and easy!",Positive
+"Online patient portal is difficult to navigate, needs improvement.",Negative
+"Thankful for the dedicated healthcare workers.",Positive
+"Misdiagnosis led to prolonged suffering, very disappointed.",Negative
+"Friendly staff made my visit comfortable.",Positive
+"Pharmacy was out of stock for my medication, inconvenient.",Negative
+"Excellent care from start to finish for my surgery.",Positive
+"I'm struggling to get an appointment with a specialist.",Negative
+"The new health app is very user-friendly.",Positive
+"Waited hours for an ambulance that never came.",Negative
+"Positive outcome after my treatment, feeling much better.",Positive
+"Billing department made a mistake on my statement.",Negative
